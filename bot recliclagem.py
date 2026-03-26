@@ -78,5 +78,3 @@ dicionario = {
     "Resíduos orgânicos" : "coloque no lixo da cor marrom ",
     "vidro" : "coloque no lixo da cor verder"
 }
-
-bot.run("MTQ3NjcxMTg2Njk5NzkzNjM4Mg.GRGFgz.gEYFn3ISLwrg8ZKx9Ivgo62E8AfdRKNGG0F_rA")
